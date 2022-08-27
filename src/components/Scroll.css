@@ -1,0 +1,17 @@
+.scroll-area {
+    height: '800px'
+}
+
+.scroll-area::-webkit-scrollbar-track {
+    background: #171c28;
+}
+
+.scroll-area::-webkit-scrollbar-thumb {
+    background: #645beb;
+    border: 3px solid #000;
+    /* height: 30vh; */
+}
+
+.scroll-area::-webkit-scrollbar {
+    width: 25px;
+}
